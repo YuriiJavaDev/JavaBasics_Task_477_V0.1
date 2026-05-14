@@ -17,7 +17,8 @@ In large-scale digital catalogs, comparing full strings or entire objects is com
 
 ## 📋 Expected result
 ```text
-The digital fingerprint for the book is: [Generated Hash Code Number]
+Processing book: 'Clean Code' by Robert C. Martin
+The digital fingerprint for the book is: -1425224273
 ```
 
 ## 💻 Code Example
